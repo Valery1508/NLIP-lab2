@@ -1,6 +1,7 @@
 # NLIP-lab2
 ## Authors: Valery Zubritskaya, Egor Makarchuk
 ## Group 821701
+## Отчет по лабораторной : https://docs.google.com/document/d/1upy5fHbT6-3pKDOmQKEegbv7RbFDCXitzjdQOum0eBE/edit?usp=sharing
 Программная реализация решения задачи автоматического синтаксического анализа текста естественного языка, подаваемого на вход системы.
 
 Суть данной программы:
